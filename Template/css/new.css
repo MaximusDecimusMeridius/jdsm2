@@ -1,0 +1,14 @@
+.bg-box1 {
+	background-image:url(../img/spamshield.png);
+	background-repeat: no-repeat;
+	//background-position: 250px -10px;
+	background-position: right top;
+}
+.bg-box2 {
+	background-image:url(../img/spamtracker.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+.triple-width {
+	width: 150px;
+	}
